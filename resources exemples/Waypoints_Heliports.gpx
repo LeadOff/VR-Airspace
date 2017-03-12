@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Flyland">
+	<metadata>
+		<name>Waypoints (Heliports, Aerodromes)</name>
+	</metadata>
+	<wpt lon="9.5140194611716" lat="47.067465020825">
+		<ele>450</ele>
+		<name>BALZERS/FL</name>
+	</wpt>
+	<wpt lon="6.9921210987024" lat="46.268745562138">
+		<ele>350</ele>
+		<name>COLLOMBEY-MURAZ</name>
+	</wpt>
+	<wpt lon="8.672493723955" lat="46.833801268146">
+		<ele>450</ele>
+		<name>ERSTFELD</name>
+	</wpt>
+	<wpt lon="7.713525581360" lat="46.312911673508">
+		<ele>70</ele>
+		<name>GAMPEL</name>
+	</wpt>
+	<wpt lon="9.3228378488319" lat="47.404739146099">
+		<ele>650</ele>
+		<name>GOSSAU SG</name>
+	</wpt>
+	<wpt lon="7.303347560213" lat="46.429766610733">
+		<ele>1100</ele>
+		<name>GSTAAD-INN GRUND</name>
+	</wpt>
+	<wpt lon="7.9101526268185" lat="46.647914561981">
+		<ele>650</ele>
+		<name>GSTEIGWILER</name>
+	</wpt>
+	<wpt lon="8.4470873322395" lat="47.089984052164">
+		<ele>500</ele>
+		<name>HALTIKON</name>
+	</wpt>
+	<wpt lon="8.0591713313503" lat="47.313434618283">
+		<ele>450</ele>
+		<name>HOLZIKEN</name>
+	</wpt>
+	<wpt lon="7.870255708694458" lat="46.667064909415">
+		<ele>250</ele>
+		<name>INTERLAKEN</name>
+	</wpt>
+	<wpt lon="7.9459452457704" lat="46.585402334158">
+		<ele>750</ele>
+		<name>LAUTERBRUNNEN</name>
+	</wpt>
+	<wpt lon="7.0566108971946" lat="46.341505043987">
+		<ele>1200</ele>
+		<name>LEYSIN</name>
+	</wpt>
+	<wpt lon="9.0243786045591" lat="46.289816940237">
+		<ele>250</ele>
+		<name>LODRINO</name>
+	</wpt>
+	<wpt lon="7.9430251999309" lat="47.23513485352">
+		<ele>500</ele>
+		<name>PFAFFNAU</name>
+	</wpt>
+	<wpt lon="7.849046874046" lat="46.301742735778">
+		<ele>80</ele>
+		<name>RARON</name>
+	</wpt>
+	<wpt lon="9.1218365212912" lat="46.231463450635">
+		<ele>250</ele>
+		<name>SAN VITTORE</name>
+	</wpt>
+	<wpt lon="8.2351893971179" lat="46.712262692333">
+		<ele>750</ele>
+		<name>SCHATTENHALB</name>
+	</wpt>
+	<wpt lon="8.7465839109535" lat="47.169891520882">
+		<ele>800</ele>
+		<name>SCHINDELLEGI</name>
+	</wpt>
+	<wpt lon="9.856971002597" lat="46.477923680883">
+		<ele>1800</ele>
+		<name>ST. MORITZ</name>
+	</wpt>
+	<wpt lon="9.1254987708593" lat="46.760065876563">
+		<ele>750</ele>
+		<name>TAVANASA</name>
+	</wpt>
+	<wpt lon="9.5061638115404" lat="47.408298644592">
+		<ele>800</ele>
+		<name>TROGEN</name>
+	</wpt>
+	<wpt lon="9.5839120328271" lat="46.911612650249">
+		<ele>500</ele>
+		<name>UNTERVAZ</name>
+	</wpt>
+	<wpt lon="8.2779223175321" lat="47.53698037143">
+		<ele>350</ele>
+		<name>WURENLINGEN</name>
+	</wpt>
+	<wpt lon="7.7853286896941" lat="46.029065646625">
+		<ele>1600</ele>
+		<name>ZERMATT</name>
+	</wpt>
+</gpx>

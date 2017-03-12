@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ThermalMaps</name>
+	<description>thermal.kk7.ch</description>
+	<atom:author>
+		<atom:name>M. von Kaenel</atom:name>
+	</atom:author>
+	<atom:link href="http://thermal.kk7.ch/" />
+	
+	<Style id="radio">
+		<ListStyle>
+			<listItemType>radioFolder</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>1</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="noChild">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>1</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	
+	<open>1</open>
+	<visibility>1</visibility>
+	<styleUrl>#radio</styleUrl>
+	<LookAt>
+		<latitude>46.5</latitude>
+		<longitude>8.2</longitude>
+		<range>750000</range>
+	</LookAt>
+	
+	<Folder id="Thermals Jan">
+		<name>Thermals Jan</name>
+		<open>0</open>
+		<visibility>0</visibility>
+		<styleUrl>#radio</styleUrl>
+		<NetworkLink id="Jan_04">
+			<name>+04h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jan_04&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Jan_07">
+			<name>+07h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jan_07&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Jan_10">
+			<name>+10h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jan_10&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+	</Folder>
+	<Folder id="Thermals Apr">
+		<name>Thermals Apr</name>
+		<open>0</open>
+		<visibility>0</visibility>
+		<styleUrl>#radio</styleUrl>
+		<NetworkLink id="Apr_04">
+			<name>+04h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Apr_04&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Apr_07">
+			<name>+07h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Apr_07&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Apr_10">
+			<name>+10h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Apr_10&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+	</Folder>
+	<Folder id="Thermals Jul">
+		<name>Thermals Jul</name>
+		<open>1</open>
+		<visibility>1</visibility>
+		<styleUrl>#radio</styleUrl>
+		<NetworkLink id="Jul_04">
+			<name>+04h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jul_04&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Jul_07">
+			<name>+07h after sunrise</name>
+			<visibility>1</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jul_07&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Jul_10">
+			<name>+10h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Jul_10&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+	</Folder>
+	<Folder id="Thermals Oct">
+		<name>Thermals Oct</name>
+		<open>0</open>
+		<visibility>0</visibility>
+		<styleUrl>#radio</styleUrl>
+		<NetworkLink id="Oct_04">
+			<name>+04h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Oct_04&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Oct_07">
+			<name>+07h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Oct_07&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+		<NetworkLink id="Oct_10">
+			<name>+10h after sunrise</name>
+			<visibility>0</visibility>
+			<Link>
+				<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=thermals&t=Oct_10&z=0&x=0&y=0]]></href>
+			</Link>
+			<styleUrl>#noChild</styleUrl>
+		</NetworkLink>
+	</Folder>
+	<NetworkLink id="skyways_all">
+		<name>All Skyways</name>
+		<visibility>0</visibility>
+		<Link>
+			<href><![CDATA[http://thermal.kk7.ch/php/kml.php?typ=skyways&t=all&z=0&x=0&y=0]]></href>
+		</Link>
+		<styleUrl>#noChild</styleUrl>
+	</NetworkLink>
+</Document>
+</kml>
